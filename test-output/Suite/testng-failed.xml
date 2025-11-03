@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Positive Test Case(failed)">
+    <classes>
+      <class name="com.dcentmass.maventous_mobile_framework.Login_ptc">
+        <methods>
+          <include name="Cofiguration"/>
+          <include name="Configuration"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.dcentmass.maventous_mobile_framework.Login_ptc -->
+    </classes>
+  </test> <!-- Positive Test Case(failed) -->
+</suite> <!-- Failed suite [Suite] -->
