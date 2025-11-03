@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.dcentmass.maventous_mobile_framework.Login_ntc">
+      <class name="com.dcentmass.maventous_mobile_framework.Login_ptc">
         <methods>
+          <include name="Cofiguration" invocation-numbers="1"/>
           <include name="Configuration"/>
-          <include name="invalidlogin"/>
+          <include name="preSetup"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.dcentmass.maventous_mobile_framework.Login_ntc -->
+      </class> <!-- com.dcentmass.maventous_mobile_framework.Login_ptc -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

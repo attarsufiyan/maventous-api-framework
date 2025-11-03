@@ -5,8 +5,9 @@
     <classes>
       <class name="com.dcentmass.maventous_mobile_framework.Login_ptc">
         <methods>
-          <include name="Cofiguration"/>
+          <include name="Cofiguration" invocation-numbers="0 1"/>
           <include name="Configuration"/>
+          <include name="preSetup"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.dcentmass.maventous_mobile_framework.Login_ptc -->

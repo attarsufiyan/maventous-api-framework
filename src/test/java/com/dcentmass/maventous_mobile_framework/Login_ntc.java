@@ -3,6 +3,7 @@ package com.dcentmass.maventous_mobile_framework;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import TestUtils.BaseTest;
 import io.appium.java_client.AppiumBy;
 
 
