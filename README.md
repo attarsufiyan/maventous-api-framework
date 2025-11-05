@@ -1,4 +1,5 @@
 Maventous API Automation Framework
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📘 Project Overview
@@ -13,11 +14,17 @@ Maventous API Automation Framework
 
 * It can be easily integrated into CI/CD pipelines and executed using Docker for seamless automation across environments.
 
-![WhatsApp Image 2025-11-05 at 18 00 14_c4605f2d](https://github.com/user-attachments/assets/3adfcbd2-80c5-44ee-8ef6-b0a3ac9d432b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48850057-0036-4c54-bbce-a7bb7bc7a551" width="20%" />
+  <img src="https://github.com/user-attachments/assets/3adfcbd2-80c5-44ee-8ef6-b0a3ac9d432b" width="60%" />
+</p>
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Key Features
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Supports BDD (Behavior Driven Development) with Cucumber.
@@ -64,7 +71,11 @@ Maventous API Automation Framework
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="1900" height="1008" alt="_D__Maventous%20API%20Framework_technobug-api_reports_cucumber-html-reports_overview-tags html" src="https://github.com/user-attachments/assets/86db5988-9705-4113-a4e0-bf196f2b8ff4" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86db5988-9705-4113-a4e0-bf196f2b8ff4" width="48%" style="margin-right:2%;" />
+  <img src="https://github.com/user-attachments/assets/1883414c-7a32-42bf-8c3e-10f0c3fd0855" width="48%" />
+</p>
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
