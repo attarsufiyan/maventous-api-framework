@@ -11,3 +11,6 @@ Project Overview
 * The framework enables easy maintenance, data-driven testing, modular structure, and detailed reporting with both HTML and JSON outputs.
 
 * It can be easily integrated into CI/CD pipelines and executed using Docker for seamless automation across environments.
+
+![Uploading WhatsApp Image 2025-11-05 at 18.00.14_c4605f2d.jpg…]()
+
