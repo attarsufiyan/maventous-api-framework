@@ -70,6 +70,8 @@ Maventous API Automation Framework
 
 🧱 Project Structure
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 * Root Folder: maventous-api/ — Main project directory containing source code, reports, and configuration files.
 
 * src/main/java/pojo/
